@@ -8,7 +8,7 @@ class Config:
     
     # API Configuration
     API_ENDPOINT = "https://fal.run/fal-ai/flux-kontext-lora"
-    LORA_URL = "https://huggingface.co/ShadoWxShinigamI/harmonise_test/resolve/main/kontext_v2_1_3.safetensors"
+    LORA_URL = "https://huggingface.co/ShadoWxShinigamI/harmonize/resolve/main/harmonize.safetensors"
     LORA_WEIGHT = 1.3
     
     # Default Processing Parameters
